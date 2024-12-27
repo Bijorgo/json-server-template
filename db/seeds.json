@@ -2,35 +2,55 @@
   "photos": [
     {
       "id": 1,
-      "url": "",
-      "photographer": "",
-      "date": "",
-      "location": "",
-      "alt": "",
-      "detail": ""
+      "url": "https://www.instagram.com/p/DA8orW5xKQM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "photographer": "Ingeborg `Georgie` Adolfs",
+      "date": "September 2024",
+      "location": "Silverthorne, Colorado",
+      "alt": "Picture of a road from the POV of a passanger. The sky is a vibrant blue and the trees surrounding the road are a mix of yelows and greens",
+      "detail": "September is prime leaf peeping season in Colorado. The Aspens turn vibrant yellow and make for some beautiful hikes!"
     },
     {
       "id": 2,
-      "url": "",
-      "photographer": "",
-      "date": "",
-      "location": "",
-      "alt": "",
-      "detail": ""
+      "url": "https://www.instagram.com/p/C3k2rngtGCm/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "photographer": "Ingeborg `Georgie` Adolfs",
+      "date": "February 2024",
+      "location": "Royal Burgers Zoo, Netherlands",
+      "alt": "A meerkat sits on a mossy rock looking off into the distance",
+      "detail": "The Burgers Zoo in the Netherlands is home to many critters. This little meerkat was looking particulary thoughtful."
+    },
+    {
+      "id": 3,
+      "url": "https://photos.fife.usercontent.google.com/pw/AP1GczOOxHDXqCDAPIMQzgjI_D3I0LzGtlSE6Np9CLTqUFxSbWfF5lSGQrAiLQ=w1061-h1409-s-no-gm?authuser=0",
+      "photographer": "Ingeborg `Georgie` Adolfs",
+      "date": "April 2024",
+      "location": "Cavagnago, Ticino, Switzerland",
+      "alt": "Looking out a wooden window at a green hills and snow topped mountatin peaks",
+      "detail": "In the quiet village of Cavagnago, there is a little cabin perched on the hill. The old, wood windows give you a glimpse of the mountain peaks. A truly unforgettable sight!"
+    },
+    {
+      "id": 4,
+      "url": "https://photos.fife.usercontent.google.com/pw/AP1GczMWE1L8TS_S3ADWcueafOMa6kE0cCOk0wvUITt0729IJdlFJ4LfN0NaaA=w1061-h1409-s-no-gm?authuser=0",
+      "photographer": "Ingeborg `Georgie` Adolfs",
+      "date": "May 2024",
+      "location": "Wyoming",
+      "alt": "Pink and green Northern Lights radiate. Scattered stars and a silhouette of a person sitting.",
+      "detail": "A very spontaneous trip to Wyoming to see the Northern Lights paid off with many vivid colors."
+    },
+    {
+      "id": 5,
+      "url": "https://photos.fife.usercontent.google.com/pw/AP1GczOHAKtB9IgEWzv60FDczlB7CmUeS665wyotoVpZxe7Osr9SNgHkbWXDCA=w1061-h1409-s-no-gm?authuser=0",
+      "date": "April 2024",
+      "location": "Cresciano, Switzerland",
+      "alt": "Orange sunset begins on the peaks of the Swiss Alps. Below is a green valley with small buildings and many trees.",
+      "detail": "The hike down from the boulders in Cresciano was a long one, but getting to see the sun set over the Swiss Alps was very special."
     }
   ],
   "photographers": [
     {
       "id": 1,
-      "name": "",
-      "url": "",
-      "bio": ""
-    },
-    {
-      "id": 1,
-      "name": "",
-      "url": "",
-      "bio": ""
+      "name": "Ingeborg `Georgie` Adolfs",
+      "url": "https://www.instagram.com/p/CdZFOHIJ1XO/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "bio": "Amateur photographer who loves all things nature"
     }
   ]
 }
