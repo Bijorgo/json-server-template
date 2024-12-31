@@ -70,6 +70,12 @@
       "name": "Ingeborg `Georgie` Adolfs",
       "url": "https://i.imgur.com/NQkEZ1K.jpeg",
       "bio": "Amateur photographer who loves all things nature"
+    },
+    {
+      "id": 2,
+      "name": "Sample",
+      "url": "https://imgur.com/a/xDnVWmu",
+      "bio": "Sample Bio"
     }
   ]
 }
